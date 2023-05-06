@@ -32,7 +32,7 @@ q "**What flower endemic to Braavos does Larys compare Alicent to?**"
 a "Malvales"
 
 q "**What is the name of the main hall of High Tide, housing the Driftwood Throne and the many treasures acquired by Corlys over his voyages?**"
-a "The Hall Of The Nine", "Hall Of The Nine"
+a "The Hall Of The Nine", "Hall Of The Nine", "Hall of Nine"
 
 q "**What is the title of the episode in which we see Rhaenys ride Meleys for the first time in the show?**"
 a "We Light The Way"
@@ -51,14 +51,14 @@ q "**How many times is Velaryon said throughout season 1 of *House Of The Dragon
 a "55", "Fifty Five", "Fifty-Five"
 
 q "**Name the actor who plays Ser Arryk!**"
-a "Luke Tittensor", "tittensor"
+a "Luke Tittensor"
 i "https://i.imgur.com/zIPl30J.jpg"
 
 q "**Name the actor who plays Ser Erryk in this scene!**"
-a "Luke Tittensor", "tittensor"
+a "Luke Tittensor"
 i "https://i.imgur.com/WupurTs.jpg"
 
-q "**Which dragon is the last to make their appearance in Season 1?**"
+q "**Which dragon is the last to make their first appearance in Season 1?**"
 a "Vermithor"
 
 q "**What period of English History did GRRM take inspiration from when writing the conflict shown in *House of The Dragon*?**"
@@ -93,7 +93,7 @@ q "**Lady Rhea Royce was heir to what seat?**"
 a "Runestone"
 
 q "**What relation is Rhaenys to Viserys?**"
-a "Cousin", "cousin"
+a "Cousin", "cousins"
 
 q "** Name the returning Linguist from Game of Thrones who worked on the Valyrian seen in *House of the Dragon*?**"
 a "David J. Peterson", "David J Peterson"
@@ -107,7 +107,7 @@ a "3", "three", "Three"
 q "**Mention a descriptor Laenor uses when talking about the new Tyroshi General in the Stepstones in episode 6.**"
 a "A giant", "Giant", "Purple beard", "wears womens frocks", "Wear's women's frocks"
 
-q "**Ser Harwin Strong is also known by the nickname of?**"
+q "**Ser Harwin Strong is also known by what nickname?**"
 a "Breakbones"
 
 q "**Which episode title shares it's name with a chapter of *Fire and Blood* detailing some of the events covered in the season?**"
@@ -120,7 +120,7 @@ q "** How many years before the events of *Game of Thrones* does *House of the D
 a "195", "195 years"
 
 q "**Where did filming take place for Kings Landing in *House of the Dragon*? (exact location)**"
-a "Cáceres and Trujillo" "cáceres and trujillo"
+a "Cáceres and Trujillo" "cáceres and trujillo", "caceres and trujillo"
 i "https://i.imgur.com/TGPZCrt.jpg"
 
 q "**How many chapters of *Fire and Blood* does *House of the Dragon* season 1 cover?**"
@@ -156,7 +156,7 @@ i "https://i.imgur.com/uBdpRot.jpg"
 q "**Who is the last character to be shown in Season 1 of *House of the Dragon*?**"
 a "Queen Rhaenyra I Targaryen", "Rhaenyra targaryen", "Rhaenyra"
 
-q "**What English Island was used as the filming location for Driftmark and the castle of High Tide**?
+q "**What English Island was used as the filming location for Driftmark and the castle of High Tide**?"
 a "St Michael's Mount", "st michaels mount"
 i "https://i.imgur.com/c4ABScI.jpg"
 
@@ -193,7 +193,7 @@ a "is an image of the Mother, to be spoken of with reverence.", "is an image of 
 i "https://i.imgur.com/Pahm0BW.jpg"
 
 q "**Learned scholar Aemond Targaryen studies the blade and what two other subjects?**"
-a "History and Philosophy", "History and philosophy", "history and philosophy", "Philosophy and History", "Philosophy and history", "philosophy and history"
+a "History and Philosophy", "History, philosophy", "History philosophy"
 
 q "**List these deaths (all Daemon's fault) **in order** by letter!**"
 a "C,D,A,B", "c,d,a,b", "cdab", "CDAB", "C, D, A, B", "c, d, a, b"
