@@ -1,6 +1,5 @@
-q "**Name the character in the picture.**"
-a "Ser Lorent Marbrand", "Lorent Marbrand", "Lorent"
-i "https://i.imgur.com/a/rI5KOil.jpg"
+q "**As of the season finale, how many Kingsguard Knights are currently on Dragonstone serving Rhaenyra?**"
+a "Three", "3"
 
 q "**Other than Cole, Name any other house in the picture.**"
 a "House Caron", "Caron", "House Mallister", "Mallister", "House Corbray", "Corbray", "House Rowan", "Rowan", "House Crakehall", "Crakehall", "House Tarly", "Tarly"
@@ -161,8 +160,9 @@ q "**What English Island was used as the filming location for Driftmark and the 
 a "St Michael's Mount", "st michaels mount"
 i "https://i.imgur.com/a/4LUBLW2"
 
-q "**Who says the following: Ard leysons arre not welcom'd but saffard?**"
-a "Mysaria"
+q "**Name the character!**"
+a "Lord Borros Baratheon", "borros baratheon", "borros"
+i "https://i.imgur.com/a/8gCzyv6"
 
 q "**What soundtrack is playing during this scene**?
 a "The Language of Girls"
@@ -181,9 +181,8 @@ i "https://i.imgur.com/a/SbgiSGZ"
 q "**According to Paddy Considine, Viserys suffered from what disease?**"
 a "Leprosy"
 
-q "**In this scene the noble Ladies are discussing the kidnapping of one Lady Johanna. From which house is she from?**
-a "House Swann", "Swann"
-i "https://i.imgur.com/a/AZvDea4"
+"**Who on the writing team wrote the most episodes for *House of the Dragon* Season One?**"
+a "Ryan Condal", "Condal"
 
 q "**Which character's name in House of the Dragon seems to be an amalgamation of these two spymaster's names in Game of Thrones?**"
 a "Larys Strong", "Larys strong", "larys strong", "larys", "Larys"
