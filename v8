@@ -6,7 +6,7 @@ a "House Caron", "Caron", "House Mallister", "Mallister", "House Corbray", "Corb
 i "https://i.imgur.com/rxR57Pe.jpg"
 
 q "**Finish the quote!**"
-a "Whoo!"
+a "Whoo!", "whoo"
 i "https://i.imgur.com/uTr6wwT.jpg"
 
 q "**What building in Old Valyria housed the Bloodmages?**"
@@ -23,7 +23,7 @@ a "3", "Three"
 
 q "**Finish the quote!**"
 a "Marlow"
-i "https://i.imgur.com/a/rWnyxFZ.jpg"
+i "https://i.imgur.com/dvvr27h.jpg"
 
 q "**Name the words of House Lonmouth.**"
 a "The Choice Is Yours"
@@ -39,10 +39,10 @@ a "We Light The Way"
 
 q "**Name the character.**"
 a "Ser Gerold Royce", "Gerold Royce", "Ser Gerold", "Gerold"
-i "https://i.imgur.com/a/A2bDeJi.jpg"
+i "https://i.imgur.com/Oe0bQVd.jpg"
 
 q "**Name a full name that appears in both *Game Of Thrones* and *House Of The Dragon*.**"
-a "Aegon Targaryen", "Viserys Targaryen", "Rickon Stark", "Lynesse Hightower", "Beric Dondarrion"
+a "Aegon Targaryen", "Viserys Targaryen", "Rickon Stark", "Lynesse Hightower", "Beric Dondarrion", "Rhaenyra Targaryen"
 
 q "**What is the only Essosi city that is visited in season 1 of *House Of The Dragon*?**"
 a "Pentos"
@@ -56,7 +56,7 @@ i "https://i.imgur.com/zIPl30J.jpg"
 
 q "**Name the actor who plays Ser Erryk in this scene!**"
 a "Luke Tittensor", "tittensor"
-i "https://i.imgur.com/a/M2qW3XA.jpg"
+i "https://i.imgur.com/WupurTs.jpg"
 
 q "**Which dragon is the last to make their appearance in Season 1?**"
 a "Vermithor"
@@ -66,7 +66,7 @@ a "The Anarchy", "Anarchy"
 
 q "**What track plays during this scene?**"
 a "The Green Dress"
-i "https://i.imgur.com/a/wiiLIPx"
+i "https://i.imgur.com/2P7dOZq.jpg"
 
 q "**Who wrote Episode 9: "The Green Council" of *House of The Dragon*?**"
 a "Sara Hess", "sara hess"
@@ -79,15 +79,15 @@ a "Vermax", "vermax"
 
 q "**Translate the Valyrian Glyphs "Tego Ēlior Vēttir Dāro Lyks Kessa" that are shown at the top of the Dragonpit.**"
 a "The first law of the land shall be the King's peace", "the first law of the land shall be the king's peace", "The first law of the land shall be the Kings peace", "the first law of the land shall be the kings peace"
-i "https://i.imgur.com/a/narD7Ze"
+i "https://i.imgur.com/7Cr2kK5.jpg"
 
 q "**Name the highlighted character in this scene.**"
 a "Eddard"
-i "https://i.imgur.com/a/A8HHXTf"
+i "https://i.imgur.com/TOoHvgG.jpg"
 
 q "**Finish the quote!**"
 a "Stings and sucks her prey dry"
-i "https://i.imgur.com/a/lk85RzH"
+i "https://i.imgur.com/2Pe8D7Q.jpg"
 
 q "**Lady Rhea Royce was heir to what seat?**"                                         
 a "Runestone"
@@ -121,7 +121,7 @@ a "195", "195 years"
 
 q "**Where did filming take place for Kings Landing in *House of the Dragon*? (exact location)**"
 a "Cáceres and Trujillo" "cáceres and trujillo"
-i "https://i.imgur.com/a/TkUEIey"
+i "https://i.imgur.com/TGPZCrt.jpg"
 
 q "**How many chapters of *Fire and Blood* does *House of the Dragon* season 1 cover?**"
 a "two", "2"
@@ -140,33 +140,33 @@ a "Blood Fever"
 
 q "**Name the soundtrack playing in this scene!**"
 a "Protector of the Realm"
-i "https://i.imgur.com/a/xr2ow78"
+i "https://i.imgur.com/a9RSMnN.jpg"
 
-q "**During this scene Jace has incorrectly translates the Valyrian word "Dranot" as "At the end"... What is the correct translation of the word Dranot?**"
+q "**During this scene, Jacaerys incorrectly translates the Valyrian word "Dranot" as "At the end"... What is the correct translation of the word Dranot?**"
 a "Mouth", "The Mouth"
-i "https://i.imgur.com/a/0RboBpN"
+i "https://i.imgur.com/Rjwk4t3.jpg"
 
 q "**Who says the following: 'But it’s not a king who sits the Iron Throne these days, good-sister. It’s a queen'.**"
 a "Vaemond Velaryon", "Vaemond"
 
 q "**Name the house the sigil belongs to!**"
 a "House Lonmouth", "Lonmouth"
-i "https://i.imgur.com/a/eosNpZJ"
+i "https://i.imgur.com/uBdpRot.jpg"
 
 q "**Who is the last character to be shown in Season 1 of *House of the Dragon*?**"
 a "Queen Rhaenyra I Targaryen", "Rhaenyra targaryen", "Rhaenyra"
 
 q "**What English Island was used as the filming location for Driftmark and the castle of High Tide**?
 a "St Michael's Mount", "st michaels mount"
-i "https://i.imgur.com/a/4LUBLW2"
+i "https://i.imgur.com/c4ABScI.jpg"
 
 q "**Name the character!**"
 a "Lord Borros Baratheon", "borros baratheon", "borros"
-i "https://i.imgur.com/a/8gCzyv6"
+i "https://i.imgur.com/FbqTKxk.jpg"
 
 q "**What soundtrack is playing during this scene**?
 a "The Language of Girls"
-i "https://i.imgur.com/a/NfR2Y6U"
+i "https://i.imgur.com/zQNHMAx.jpg"
 
 q "**From which Free City does Mysaria hail from?**"
 a "Lys"
@@ -176,7 +176,7 @@ a "Rhaenyra Targaryen", "Rhaenyra"
 
 q "**Name the cleverly hidden character first from the right!**"
 a "Otto Hightower", "Otto", "Kevall", "Kev"
-i "https://i.imgur.com/a/SbgiSGZ"
+i "https://i.imgur.com/VFA8v6X.jpg"
 
 q "**According to Paddy Considine, Viserys suffered from what disease?**"
 a "Leprosy"
@@ -184,17 +184,17 @@ a "Leprosy"
 q "**Who on the writing team wrote the most episodes for *House of the Dragon* Season One?**"
 a "Ryan Condal", "Condal"
 
-q "**Which character's name in House of the Dragon seems to be an amalgamation of these two spymaster's names in Game of Thrones?**"
-a "Larys Strong", "Larys strong", "larys strong", "larys", "Larys"
-i https://i.imgur.com/a/lPTPoMu
+q "**Which character's name in House of the Dragon is an amalgamation of these two spymaster's names in Game of Thrones?**"
+a "Lord Larys Strong", "Larys strong", "larys strong", "larys", "Larys"
+i "https://i.imgur.com/388H2K8.jpg"
 
 q "**Finish the quote!**"
 a "is an image of the Mother, to be spoken of with reverence.", "is an image of the Mother to be spoken of with reverence"
-i "https://i.imgur.com/a/M6WeokH"
+i "https://i.imgur.com/Pahm0BW.jpg"
 
 q "**Learned scholar Aemond Targaryen studies the blade and what two other subjects?**"
 a "History and Philosophy", "History and philosophy", "history and philosophy", "Philosophy and History", "Philosophy and history", "philosophy and history"
 
 q "**List these deaths (all Daemon's fault) **in order** by letter!**"
 a "C,D,A,B", "c,d,a,b", "cdab", "CDAB", "C, D, A, B", "c, d, a, b"
-i "https://i.imgur.com/a/NWbGNdY"
+i "https://i.imgur.com/mel9FwM.jpg"
